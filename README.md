@@ -342,5 +342,73 @@
             </ul>
         </section>
     </div>
+     <div >
+        <h1>Project Structure</h1>
+        <pre>
+<code>
+/SERA
+│
+├── /frontend
+│   ├── /public
+│   │   ├── index.html
+│   │   └── assets/        # Static assets (images, fonts, etc.)
+│   ├── /src
+│   │   ├── /components    # React/Angular components
+│   │   ├── /pages         # Page components
+│   │   ├── /hooks         # Custom React hooks
+│   │   ├── /context       # Context API files
+│   │   ├── /services      # API service functions
+│   │   ├── /utils         # Utility functions
+│   │   ├── /styles        # Global styles and themes
+│   │   ├── App.js         # Main App component
+│   │   └── index.js       # Entry point for React/Angular
+│   ├── package.json       # Frontend dependencies and scripts
+│   └── .env               # Environment variables
+│
+├── /backend
+│   ├── /controllers       # Route handlers and business logic
+│   ├── /models            # Database models
+│   ├── /routes            # API routes
+│   ├── /services          # Business logic and external API interactions
+│   ├── /middleware        # Middleware functions (auth, validation)
+│   ├── /config            # Configuration files (DB, blockchain)
+│   ├── /scripts           # Scripts for setup, migrations, etc.
+│   ├── /utils             # Utility functions
+│   ├── app.js             # Express app setup
+│   └── server.js          # Server entry point
+│   ├── package.json       # Backend dependencies and scripts
+│   └── .env               # Environment variables
+│
+├── /blockchain
+│   ├── /contracts         # Smart contracts
+│   ├── /migrations        # Contract migrations
+│   ├── /scripts           # Deployment and interaction scripts
+│   ├── truffle-config.js  # Truffle configuration
+│   └── hardhat.config.js  # Hardhat configuration (if used)
+│
+├── /ml
+│   ├── /models            # Machine learning models and training scripts
+│   ├── /notebooks         # Jupyter notebooks for analysis
+│   ├── /scripts           # Scripts for data preprocessing, training, etc.
+│   ├── requirements.txt   # Python dependencies
+│   └── config.json        # Configuration for ML tasks
+│
+├── /docs                  # Documentation files
+│   ├── API.md             # API documentation
+│   ├── USER_GUIDE.md      # User guide and FAQs
+│   └── ARCHITECTURE.md    # System architecture and design decisions
+│
+├── /tests                 # Test cases
+│   ├── /frontend          # Frontend tests
+│   ├── /backend           # Backend tests
+│   ├── /blockchain        # Smart contract tests
+│   └── /ml                # ML model tests
+│
+├── .gitignore             # Git ignore file
+├── README.md              # Project overview and setup instructions
+└── docker-compose.yml     # Docker Compose file (if using Docker)
+</code>
+        </pre>
+    </div>
   </body>
 </html>
