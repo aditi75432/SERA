@@ -229,5 +229,118 @@
             </ul>
         </section>
     </div>
+    <div >
+        <section >
+            <h1>Features</h1>
+            <h2>1. Real-Time Stock Trading</h2>
+            <ul>
+                <li><strong>Live Market Data:</strong> Provides up-to-date information on stock prices, market trends, and trading volumes.</li>
+                <li><strong>Instant Trade Execution:</strong> Allows users to execute buy and sell orders quickly, reflecting real-time market conditions.</li>
+                <li><strong>Real-Time Alerts:</strong> Sends notifications about price changes, trade executions, and market events.</li>
+            </ul>
+            <h2>2. Blockchain Integration</h2>
+            <ul>
+                <li><strong>Secure Transactions:</strong> Uses blockchain technology for secure and tamper-proof recording of all trading activities.</li>
+                <li><strong>Transparent Ledger:</strong> Provides an immutable and transparent transaction history that users can verify.</li>
+                <li><strong>Decentralized Control:</strong> Ensures greater security and reliability by decentralizing transaction validation.</li>
+            </ul>
+            <h2>3. Educational Content</h2>
+            <ul>
+                <li><strong>Interactive Modules:</strong> Offers lessons on investing basics, market analysis, and advanced trading strategies.</li>
+                <li><strong>Quizzes and Assessments:</strong> Includes quizzes to test knowledge and track learning progress.</li>
+                <li><strong>Progressive Learning Paths:</strong> Provides structured learning paths to guide users from beginner to advanced levels.</li>
+            </ul>
+            <h2>4. Machine Learning Insights</h2>
+            <ul>
+                <li><strong>Predictive Analytics:</strong> Uses machine learning algorithms to forecast stock trends and market movements.</li>
+                <li><strong>Personalized Recommendations:</strong> Tailors trading suggestions and strategies based on individual user behavior and performance.</li>
+                <li><strong>Trend Analysis:</strong> Continuously analyzes market trends to refine and improve user strategies.</li>
+            </ul>
+            <h2>5. Gamification</h2>
+            <ul>
+                <li><strong>Points and Badges:</strong> Rewards users with points and badges for achieving milestones and completing educational activities.</li>
+                <li><strong>Leaderboards:</strong> Displays top performers to foster a competitive and engaging environment.</li>
+                <li><strong>Challenges and Competitions:</strong> Organizes regular challenges and trading competitions to motivate users and enhance engagement.</li>
+            </ul>
+            <h2>6. Performance Tracking</h2>
+            <ul>
+                <li><strong>Detailed Reports:</strong> Provides comprehensive reports on trading performance, including profit/loss analysis and transaction history.</li>
+                <li><strong>Skill Improvement Metrics:</strong> Tracks and displays metrics related to user skill development and trading efficiency.</li>
+                <li><strong>Customizable Dashboards:</strong> Allows users to customize their dashboards to monitor key performance indicators and personal metrics.</li>
+            </ul>
+            <h2>7. Expert Guidance</h2>
+            <ul>
+                <li><strong>Video Sessions:</strong> Offers access to paid video content featuring market experts and analysts.</li>
+                <li><strong>Live Webinars:</strong> Hosts live webinars and Q&A sessions with experts for real-time advice and insights.</li>
+                <li><strong>Personalized Coaching:</strong> Provides opportunities for one-on-one coaching and mentorship for tailored support.</li>
+            </ul>
+            <h2>8. User-Friendly Interface</h2>
+            <ul>
+                <li><strong>Intuitive Design:</strong> Features a clean and intuitive user interface for easy navigation and interaction.</li>
+                <li><strong>Responsive Layout:</strong> Ensures a seamless experience across desktop and mobile devices.</li>
+                <li><strong>Interactive Elements:</strong> Includes interactive charts, graphs, and tools for an engaging user experience.</li>
+            </ul>
+            <h2>9. Community Features</h2>
+            <ul>
+                <li><strong>Forums and Chatrooms:</strong> Facilitates discussions and knowledge sharing among users.</li>
+                <li><strong>Social Sharing:</strong> Allows users to share achievements and trading insights on social media.</li>
+                <li><strong>Mentorship Programs:</strong> Connects novice traders with experienced mentors for guidance and support.</li>
+            </ul>
+            <h2>10. Security Measures</h2>
+            <ul>
+                <li><strong>Authentication:</strong> Implements secure authentication methods such as OAuth or JWT for user verification.</li>
+                <li><strong>Encryption:</strong> Uses SSL/TLS encryption to protect data transmission and user privacy.</li>
+                <li><strong>Fraud Prevention:</strong> Integrates measures to detect and prevent fraudulent activities and unauthorized access.</li>
+            </ul>
+            <h2>11. Integration with DeFi</h2>
+            <ul>
+                <li><strong>Financial Services:</strong> Integrates with decentralized finance (DeFi) applications for services like lending, borrowing, and staking.</li>
+                <li><strong>Liquidity Pools:</strong> Provides access to DeFi liquidity pools for enhanced financial services and opportunities.</li>
+            </ul>
+        </section>
+
+  <section >
+            <h1>Demo Video</h1>
+            <p>Embed or link to the demo video showcasing the features and functionality of the platform.</p>
+        </section>
+
+  <section >
+            <h1>Challenges Faced</h1>
+            <h2>1. Integration of Machine Learning in Web3</h2>
+            <ul>
+                <li><strong>Data Security and Privacy:</strong> Ensuring that sensitive transaction data used for machine learning is kept secure and private while being processed. Implementing privacy-preserving machine learning techniques to comply with data protection regulations.</li>
+                <li><strong>Interoperability:</strong> Integrating machine learning models with blockchain infrastructure seamlessly. Ensuring that the outputs of machine learning models can be effectively utilized within the Web3 ecosystem.</li>
+            </ul>
+            <h2>2. Integration of Blockchain</h2>
+            <ul>
+                <li><strong>Blockchain Interoperability:</strong> Ensuring seamless interaction between the blockchain layer and the application layer.</li>
+                <li><strong>Performance and Scalability:</strong> Handling the potential performance bottlenecks of blockchain, such as transaction throughput and confirmation times. Implementing solutions to scale the blockchain network as the number of users and transactions increases.</li>
+            </ul>
+            <h2>3. GitHub Account Issues</h2>
+            <ul>
+                <li><strong>Repository Management:</strong> Managing repository access and permissions to ensure that team members have the necessary access while maintaining security. Handling issues related to repository cloning, pushing, and pulling due to account or authentication problems.</li>
+                <li><strong>Version Control:</strong> Ensuring that all team members are using consistent version control practices to avoid conflicts and merge issues. Resolving merge conflicts that arise from simultaneous development efforts.</li>
+                <li><strong>Collaboration:</strong> Coordinating among team members to ensure smooth collaboration and avoid issues like code overwriting or accidental deletions. Utilizing GitHub features like branches, pull requests, and issues effectively for team collaboration.</li>
+            </ul>
+            <h2>4. Various Technical Issues</h2>
+            <ul>
+                <li><strong>Infrastructure Setup:</strong> Setting up and configuring the development and production environments, including servers, databases, and blockchain nodes. Ensuring that all components of the application are correctly configured and can communicate with each other.</li>
+                <li><strong>Deployment Challenges:</strong> Deploying the application on cloud platforms and ensuring that all services are up and running. Handling deployment issues such as server downtime, configuration errors, and dependency management.</li>
+                <li><strong>API Integration:</strong> Integrating third-party APIs and services into the application and handling any compatibility or configuration issues. Ensuring that the APIs are secure and perform well under load.</li>
+                <li><strong>Bug Fixing and Testing:</strong> Identifying and fixing bugs that arise during development and testing phases. Ensuring comprehensive testing of the application to detect and resolve issues early in the development process.</li>
+                <li><strong>Documentation and Knowledge Sharing:</strong> Maintaining up-to-date documentation to ensure that all team members are aware of the system architecture, configuration, and best practices. Facilitating knowledge sharing and troubleshooting among team members to quickly resolve technical issues.</li>
+            </ul>
+        </section>
+
+   <section >
+            <h1>Contributors</h1>
+            <ul >
+                <li><strong>Anusha Arora:</strong> Made login page, transaction pages, data processing, README, PPT, and integration of backend with ML model.</li>
+                <li><strong>Aditi Mehta:</strong> Developed the entire front end and blockchain integration.</li>
+                <li><strong>Arshiya Garg:</strong> Created the ML model, training dataset, data preprocessing, and learned about IPFS. Also contributed to README.</li>
+                <li><strong>Vania Goel:</strong> Assisted with front end, integrated ML and blockchain using IPFS, integrated APIs, and deployed ML and blockchain in the backend.</li>
+            </ul>
+        </section>
+    </div>
   </body>
 </html>
