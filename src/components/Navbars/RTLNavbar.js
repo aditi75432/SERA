@@ -118,17 +118,17 @@ function AdminNavbar(props) {
                 <DropdownMenu className="dropdown-navbar" tag="ul" right>
                   <NavLink tag="li">
                     <DropdownItem className="nav-item">
-                      Mike John responded to your email
+                     Woohooooo your turned a profit
                     </DropdownItem>
                   </NavLink>
                   <NavLink tag="li">
                     <DropdownItem className="nav-item">
-                      You have 5 more tasks
+                      You have 5 more lectures left
                     </DropdownItem>
                   </NavLink>
                   <NavLink tag="li">
                     <DropdownItem className="nav-item">
-                      Your friend Michael is in town
+                      1000 credits added to your wallet
                     </DropdownItem>
                   </NavLink>
                   <NavLink tag="li">
