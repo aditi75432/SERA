@@ -109,5 +109,125 @@
             </ul>
         </section>
     </div>
+     <div >
+        <section >
+            <h1>Objective</h1>
+            <ul>
+                <li>Educate Young Adults: Provide a comprehensive platform for young adults (ages 16-25) to learn about stock trading and investment fundamentals through interactive content and real-time simulations.</li>
+                <li>Facilitate Practical Experience: Offer users the opportunity to trade real stocks in a live market environment, enabling them to gain hands-on experience and better understand market dynamics.</li>
+                <li>Enhance Financial Literacy: Equip users with the knowledge and tools to manage their money effectively, make informed investment decisions, and build a strong financial foundation.</li>
+                <li>Promote Continuous Improvement: Deliver actionable insights, performance reports, and expert guidance to help users identify areas for improvement and enhance their trading skills.</li>
+                <li>Increase Engagement Through Gamification: Incorporate gamified elements such as points, badges, and challenges to make the learning process engaging and motivating, encouraging users to actively participate and track their progress.</li>
+            </ul>
+        </section>
+
+  <section >
+            <h1>Solution</h1>
+            <ul>
+                <li><strong>Secure and Transparent Trading:</strong>
+                    <ul>
+                        <li>Utilizes blockchain technology to ensure all transactions are recorded securely and transparently, minimizing fraud and unauthorized tampering.</li>
+                    </ul>
+                </li>
+                <li><strong>Real-Time Market Access:</strong>
+                    <ul>
+                        <li>Offers users the ability to trade real stocks with live market data, providing an authentic trading experience and immediate feedback.</li>
+                    </ul>
+                </li>
+                <li><strong>Educational Resources:</strong>
+                    <ul>
+                        <li>Provides comprehensive educational content and interactive simulations to help users understand stock trading and investment strategies.</li>
+                    </ul>
+                </li>
+                <li><strong>Actionable Insights and Expert Guidance:</strong>
+                    <ul>
+                        <li>Delivers performance reports, actionable insights, and access to expert video sessions to help users improve their trading skills and make informed decisions.</li>
+                    </ul>
+                </li>
+                <li><strong>Gamified Engagement:</strong>
+                    <ul>
+                        <li>Incorporates gamified elements such as points, badges, and challenges to enhance user engagement, motivation, and learning experience.</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+       
+  <section>
+            <h1>Tech Stack</h1>
+            <ul>
+                <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React.js</li>
+                <li><strong>Framework:</strong> Bootstrap</li>
+                <li><strong>Backend:</strong> Express.js, Node.js, Flask, Python</li>
+                <li><strong>Blockchain:</strong> Polygon</li>
+                <li><strong>Machine Learning:</strong> scikit-learn, numpy, pandas</li>
+                <li><strong>Decentralized Server Used:</strong> IPFS</li>
+            </ul>
+        </section>
+    </div>
+     <div >
+        <section >
+            <h1>Implementation</h1>
+            <h2>Installation</h2>
+            <p><strong>Prerequisites:</strong></p>
+            <ul>
+                <li>Node.js</li>
+                <li>JavaScript</li>
+                <li>Python (Jupyter Notebook)</li>
+                <li>Git</li>
+                <li>React.js</li>
+                <li>Polygon</li>
+                <li>IPFS</li>
+            </ul>
+            <h2>Steps to Install Polygon and IPFS</h2>
+            <h3>Truffle: A popular development framework for Ethereum and Polygon:</h3>
+            <ul >
+                <li>Install Truffle:
+                    <pre><code>npm install -g truffle</code></pre>
+                </li>
+                <li>Verify Installation:
+                    <pre><code>truffle version</code></pre>
+                </li>
+            </ul>
+            <h3>IPFS:</h3>
+            <ul >
+                <li>Download IPFS: Go to the IPFS installation page and download the appropriate version for your operating system.</li>
+            </ul>
+        </section>
+
+   <section >
+            <h1>Usage</h1>
+            <h2>POLYGON</h2>
+            <p>Integrating Polygon (formerly Matic Network) into your website can provide several advantages, particularly if your platform involves blockchain features such as stock trading and financial transactions.</p>
+            <h3>Key Benefits</h3>
+            <ul>
+                <li><strong>Fast Transactions:</strong> High-speed processing with minimal latency for real-time trading.</li>
+                <li><strong>Low Fees:</strong> Reduced transaction costs compared to Ethereum’s mainnet.</li>
+                <li><strong>Enhanced Security:</strong> Secure and transparent transactions on an immutable ledger.</li>
+                <li><strong>Easy Integration:</strong> Compatible with Ethereum, using existing tools and smart contracts.</li>
+                <li><strong>Improved User Experience:</strong> Quick transaction confirmations and efficient data handling.</li>
+            </ul>
+        </section>
+    <section >
+            <h1>Machine Learning Model</h1>
+            <p>The primary machine learning model used is the Isolation Forest algorithm, which excels in anomaly detection. This section outlines the usage, training, and prediction processes for the machine learning components.</p>
+            <h2>Training the Machine Learning Model</h2>
+            <h3>Data Collection</h3>
+            <ul>
+                <li><strong>Historical Transaction Data:</strong> Collect historical transaction data including features such as transaction amount, timestamp, location, merchant details, and user information.</li>
+                <li><strong>Labeling Data:</strong> For supervised algorithms, label the data to indicate whether each transaction is legitimate or fraudulent.</li>
+            </ul>
+            <h3>Data Preprocessing</h3>
+            <ul>
+                <li><strong>Data Cleaning:</strong> Remove duplicates, handle missing values, and correct any inconsistencies in the data.</li>
+                <li><strong>Feature Engineering:</strong> Create new features or modify existing ones to improve the model's predictive power (e.g., transaction frequency, average transaction amount).</li>
+                <li><strong>Normalization:</strong> Scale the features to a standard range to ensure the model's performance is not biased by the scale of the input data.</li>
+            </ul>
+            <h3>Training the Isolation Forest Model</h3>
+            <ul>
+                <li><strong>Isolation Forest:</strong> An unsupervised learning algorithm specifically designed for anomaly detection. Ideal for identifying fraudulent transactions by isolating anomalies from the normal transaction patterns.</li>
+            </ul>
+        </section>
+    </div>
   </body>
 </html>
