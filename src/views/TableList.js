@@ -1,20 +1,4 @@
-/*!
 
-=========================================================
-* Black Dashboard React v1.2.2
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/black-dashboard-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/black-dashboard-react/blob/master/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 
 // reactstrap components
@@ -36,7 +20,7 @@ function Tables() {
           <Col md="12">
             <Card>
               <CardHeader>
-                <CardTitle tag="h4">Simple Table</CardTitle>
+                <CardTitle tag="h4">LeaderBoard</CardTitle>
               </CardHeader>
               <CardBody>
                 <Table className="tablesorter" responsive>
@@ -45,7 +29,7 @@ function Tables() {
                       <th>Name</th>
                       <th>Country</th>
                       <th>City</th>
-                      <th className="text-center">Salary</th>
+                      <th className="text-center">Points</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -53,43 +37,43 @@ function Tables() {
                       <td>Dakota Rice</td>
                       <td>Niger</td>
                       <td>Oud-Turnhout</td>
-                      <td className="text-center">$36,738</td>
+                      <td className="text-center">6,738</td>
                     </tr>
                     <tr>
                       <td>Minerva Hooper</td>
                       <td>Curaçao</td>
                       <td>Sinaai-Waas</td>
-                      <td className="text-center">$23,789</td>
+                      <td className="text-center">3,789</td>
                     </tr>
                     <tr>
                       <td>Sage Rodriguez</td>
                       <td>Netherlands</td>
                       <td>Baileux</td>
-                      <td className="text-center">$56,142</td>
+                      <td className="text-center">142</td>
                     </tr>
                     <tr>
                       <td>Philip Chaney</td>
                       <td>Korea, South</td>
                       <td>Overland Park</td>
-                      <td className="text-center">$38,735</td>
+                      <td className="text-center">35</td>
                     </tr>
                     <tr>
                       <td>Doris Greene</td>
                       <td>Malawi</td>
                       <td>Feldkirchen in Kärnten</td>
-                      <td className="text-center">$63,542</td>
+                      <td className="text-center">2</td>
                     </tr>
                     <tr>
                       <td>Mason Porter</td>
                       <td>Chile</td>
                       <td>Gloucester</td>
-                      <td className="text-center">$78,615</td>
+                      <td className="text-center">1</td>
                     </tr>
                     <tr>
                       <td>Jon Porter</td>
                       <td>Portugal</td>
                       <td>Gloucester</td>
-                      <td className="text-center">$98,615</td>
+                      <td className="text-center">1</td>
                     </tr>
                   </tbody>
                 </Table>
@@ -99,7 +83,7 @@ function Tables() {
           <Col md="12">
             <Card className="card-plain">
               <CardHeader>
-                <CardTitle tag="h4">Table on Plain Background</CardTitle>
+                <CardTitle tag="h4">Users Who Completed Level 3</CardTitle>
                 <p className="category">Here is a subtitle for this table</p>
               </CardHeader>
               <CardBody>
@@ -109,7 +93,7 @@ function Tables() {
                       <th>Name</th>
                       <th>Country</th>
                       <th>City</th>
-                      <th className="text-center">Salary</th>
+                      <th className="text-center">Points</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -117,43 +101,43 @@ function Tables() {
                       <td>Dakota Rice</td>
                       <td>Niger</td>
                       <td>Oud-Turnhout</td>
-                      <td className="text-center">$36,738</td>
+                      <td className="text-center">6,738</td>
                     </tr>
                     <tr>
                       <td>Minerva Hooper</td>
                       <td>Curaçao</td>
                       <td>Sinaai-Waas</td>
-                      <td className="text-center">$23,789</td>
+                      <td className="text-center">3,789</td>
                     </tr>
                     <tr>
                       <td>Sage Rodriguez</td>
                       <td>Netherlands</td>
                       <td>Baileux</td>
-                      <td className="text-center">$56,142</td>
+                      <td className="text-center">142</td>
                     </tr>
                     <tr>
                       <td>Philip Chaney</td>
                       <td>Korea, South</td>
                       <td>Overland Park</td>
-                      <td className="text-center">$38,735</td>
+                      <td className="text-center">35</td>
                     </tr>
                     <tr>
                       <td>Doris Greene</td>
                       <td>Malawi</td>
                       <td>Feldkirchen in Kärnten</td>
-                      <td className="text-center">$63,542</td>
+                      <td className="text-center">32</td>
                     </tr>
                     <tr>
                       <td>Mason Porter</td>
                       <td>Chile</td>
                       <td>Gloucester</td>
-                      <td className="text-center">$78,615</td>
+                      <td className="text-center">15</td>
                     </tr>
                     <tr>
                       <td>Jon Porter</td>
                       <td>Portugal</td>
                       <td>Gloucester</td>
-                      <td className="text-center">$98,615</td>
+                      <td className="text-center">5</td>
                     </tr>
                   </tbody>
                 </Table>
