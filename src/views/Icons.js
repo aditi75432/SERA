@@ -12,9 +12,9 @@ function Icons() {
           <Col md="12">
             <Card>
               <CardHeader>
-                <h5 className="title">TUTORIALS</h5>
+                <h5 className="title">Tutorials</h5>
                 <p className="category">
-                  Handcrafted by our friends from{" "}
+                  By our Mentors from{" "}
                   <a href="#">FINANCE ED</a>
                 </p>
               </CardHeader>
