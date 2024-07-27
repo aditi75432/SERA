@@ -48,8 +48,8 @@ function Dashboard(props) {
               <CardHeader>
                 <Row>
                   <Col className="text-left" sm="6">
-                    <h5 className="card-category">Total Tutorials</h5>
-                    <CardTitle tag="h2">Performance</CardTitle>
+                    <h5 className="card-category">Stock Market Today</h5>
+                    <CardTitle tag="h2">Your Performance</CardTitle>
                   </Col>
                   <Col sm="6">
                     <ButtonGroup
@@ -272,12 +272,9 @@ function Dashboard(props) {
                           </FormGroup>
                         </td>
                         <td>
-                          <p className="title">GDPR Compliance</p>
+                          <p className="title">Yahoo Finanace</p>
                           <p className="text-muted">
-                            The GDPR is a regulation that requires businesses to
-                            protect the personal data and privacy of Europe
-                            citizens for transactions that occur within EU
-                            member states.
+                            Study Today's market
                           </p>
                         </td>
                         <td className="td-actions text-right">
