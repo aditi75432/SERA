@@ -70,33 +70,33 @@ function FixedPlugin(props) {
           </li>
           <li className="button-container">
             <Button
-              href="https://www.creative-tim.com/product/black-dashboard-react"
+              href="#"
               color="primary"
               block
               className="btn-round"
             >
-              Download Now
+             
             </Button>
             <Button
               color="default"
               block
               className="btn-round"
               outline
-              href="https://demos.creative-tim.com/black-dashboard-react/#/documentation/tutorial"
+              href="#"
             >
               Documentation
             </Button>
           </li>
-          <li className="header-title">Want more components?</li>
+          <li className="header-title"></li>
           <li className="button-container">
             <Button
-              href="https://www.creative-tim.com/product/black-dashboard-pro-react"
+              href="#"
               className="btn-round"
               disabled
               block
               color="danger"
             >
-              Get pro version
+             
             </Button>
           </li>
         </ul>

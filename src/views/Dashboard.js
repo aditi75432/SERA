@@ -235,7 +235,7 @@ function Dashboard(props) {
                         <td>
                           <p className="title">Update the Documentation</p>
                           <p className="text-muted">
-                            AVAA
+                            SERA
                           </p>
                         </td>
                         <td className="td-actions text-right">
