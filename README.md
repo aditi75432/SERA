@@ -5,6 +5,8 @@
         <div >
             <h1>SERA</h1>
             <p>Stock Education and Real-time Simulation Analysis</p>
+            <a href="https://drive.google.com/file/d/1UGI_4H8k1kyd804vWIUPImmT3PiAQuCo/view"></a>
+          
         </div>
     </header>
 
