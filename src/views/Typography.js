@@ -12,180 +12,91 @@ function Typography() {
           <Col md="12">
             <Card>
               <CardHeader className="mb-5">
-                <h5 className="card-category">Black Table Heading</h5>
+                <h5 className="card-category">About Us</h5>
                 <CardTitle tag="h3">
-                  Created using Poppins Font Family
+                  
                 </CardTitle>
               </CardHeader>
               <CardBody>
                 <div className="typography-line">
                   <h1>
-                    <span>Header 1</span>
-                    The Life of Black Dashboard React
+                   
+                   About Us
                   </h1>
                 </div>
-                <div className="typography-line">
-                  <h2>
-                    <span>Header 2</span>
-                    The Life of Black Dashboard React
-                  </h2>
-                </div>
+                
+                
                 <div className="typography-line">
                   <h3>
-                    <span>Header 3</span>
-                    The Life of Black Dashboard React
+                    
+                    SERA : Stock Education and Real-time Simulation Analysis
                   </h3>
                 </div>
-                <div className="typography-line">
-                  <h4>
-                    <span>Header 4</span>
-                    The Life of Black Dashboard React
-                  </h4>
-                </div>
-                <div className="typography-line">
-                  <h5>
-                    <span>Header 5</span>
-                    The Life of Black Dashboard React
-                  </h5>
-                </div>
-                <div className="typography-line">
-                  <h6>
-                    <span>Header 6</span>
-                    The Life of Black Dashboard React
-                  </h6>
-                </div>
+                
                 <div className="typography-line">
                   <p>
-                    <span>Paragraph</span>I will be the leader of a company that
-                    ends up being worth billions of dollars, because I got the
-                    answers. I understand culture. I am the nucleus. I think
-                    that’s a responsibility that I have, to push possibilities,
-                    to show people, this is the level that things could be at.
+                    <span>Our Summary</span> SERA, was founded by four keen Stock Traders, who knew far too little to begin their Journey at the time. Our mission therefore, was to create a platform where people of all ages, could dwelve into the world of trading without worying about losing too much cash.
                   </p>
                 </div>
                 <div className="typography-line">
-                  <span>Quote</span>
+                  <span>Our Motive</span>
                   <blockquote>
                     <p className="blockquote blockquote-primary">
-                      "I will be the leader of a company that ends up being
-                      worth billions of dollars, because I got the answers. I
-                      understand culture. I am the nucleus. I think that’s a
-                      responsibility that I have, to push possibilities, to show
-                      people, this is the level that things could be at." <br />
+                      "Transform Your Financial Future with SERA: The Ultimate Gamified Stock Trading Platform for Young Adults (16-25). Experience the Thrill of Real-Time Market Simulations & Handling wallet credits. Empower Yourself with Comprehensive Educational Content, and Stay Engaged with Interactive Features. SERA is Designed to Help You Learn Investing, Develop Smart Money Management Skills, and Build a Robust Financial Foundation. Dive into Realistic Market Scenarios, Participate in Exciting Challenges, and Unlock Your Potential with SERA – Where Learning and Investing Come to Life." <br />
                       <br />
-                      <small>- Noaa</small>
+                      <small>- AVAA</small>
                     </p>
                   </blockquote>
                 </div>
+                
                 <div className="typography-line">
-                  <span>Muted Text</span>
-                  <p className="text-muted">
-                    I will be the leader of a company that ends up being worth
-                    billions of dollars, because I got the answers...
-                  </p>
-                </div>
-                <div className="typography-line">
-                  <span>Primary Text</span>
-                  <p className="text-primary">
-                    I will be the leader of a company that ends up being worth
-                    billions of dollars, because I got the answers...
-                  </p>
-                </div>
-                <div className="typography-line">
-                  <span>Info Text</span>
-                  <p className="text-info">
-                    I will be the leader of a company that ends up being worth
-                    billions of dollars, because I got the answers...
-                  </p>
-                </div>
-                <div className="typography-line">
-                  <span>Success Text</span>
-                  <p className="text-success">
-                    I will be the leader of a company that ends up being worth
-                    billions of dollars, because I got the answers...
-                  </p>
-                </div>
-                <div className="typography-line">
-                  <span>Warning Text</span>
-                  <p className="text-warning">
-                    I will be the leader of a company that ends up being worth
-                    billions of dollars, because I got the answers...
-                  </p>
-                </div>
-                <div className="typography-line">
-                  <span>Danger Text</span>
+                  <span>THE FOUNDERS</span>
                   <p className="text-danger">
-                    I will be the leader of a company that ends up being worth
-                    billions of dollars, because I got the answers...
+                    The Founders Of SERA are :
+                    Aditi :A
+                    Vania :V
+                    Anusha:A
+                    Arshiya:A
                   </p>
                 </div>
                 <div className="typography-line">
                   <h2>
-                    <span>Small Tag</span>
-                    Header with small subtitle <br />
-                    <small>Use "small" tag for the headers</small>
+                    
+                   What Makes US Different? <br />
+                    
                   </h2>
                 </div>
                 <div className="typography-line">
-                  <span>Lists</span>
+                  <span>OUR FEATURES</span>
                   <Row>
                     <Col md="3">
-                      <h5>Unordered List</h5>
+                      <h5>Features</h5>
                       <ul>
-                        <li>List Item</li>
-                        <li>List Item</li>
+                        <li>Advanced Blockchain Security and Transparency</li>
+                        <li>Real-Time Trading and Market Data</li>
                         <li className="list-unstyled">
                           <ul>
-                            <li>List Item</li>
-                            <li>List Item</li>
-                            <li>List Item</li>
+                            <li>Comprehensive Educational Content</li>
+                            <li>Machine Learning-Driven Insights and Predictions</li>
+                            <li>Actionable Performance Insights</li>
                           </ul>
                         </li>
-                        <li>List Item</li>
+                        <li>Expert Guidance and Learning Resources</li>
                       </ul>
                     </Col>
                     <Col md="3">
-                      <h5>Ordered List</h5>
+                      <h5>USPs</h5>
                       <ol>
-                        <li>List Item</li>
-                        <li>List Item</li>
-                        <li>List item</li>
-                        <li>List Item</li>
+                        <li>Engaging Gamification Features</li>
+                        <li>Enhanced User Engagement and Retention</li>
+                        <li>LeaderBoard</li>
+                        <li>Scalable and Adaptable Technology</li>
                       </ol>
                     </Col>
-                    <Col md="3">
-                      <h5>Unstyled List</h5>
-                      <ul className="list-unstyled">
-                        <li>List Item</li>
-                        <li>List Item</li>
-                        <li>List item</li>
-                        <li>List Item</li>
-                      </ul>
-                    </Col>
-                    <Col md="3">
-                      <h5>Inline List</h5>
-                      <ul className="list-inline">
-                        <li className="list-inline-item">List1</li>
-                        <li className="list-inline-item">List2</li>
-                        <li className="list-inline-item">List3</li>
-                      </ul>
-                    </Col>
+                    
                   </Row>
                 </div>
-                <div className="typography-line">
-                  <span>Code</span>
-                  <p>
-                    This is <code>.css-class-as-code</code>, an example of an
-                    inline code element. Wrap inline code within a{" "}
-                    <code>{`<code>...</code>`}</code>
-                    tag.
-                  </p>
-                  <pre>
-                    1. #This is an example of preformatted text.
-                    <br />
-                    2. #Here is another line of code
-                  </pre>
-                </div>
+                
               </CardBody>
             </Card>
           </Col>

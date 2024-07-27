@@ -33,9 +33,9 @@ function UserProfile() {
                       <FormGroup>
                         <label>Company (disabled)</label>
                         <Input
-                          defaultValue="Creative Code Inc."
+                          defaultValue="SERA Inc."
                           disabled
-                          placeholder="Company"
+                          placeholder="AVAA"
                           type="text"
                         />
                       </FormGroup>
@@ -44,7 +44,7 @@ function UserProfile() {
                       <FormGroup>
                         <label>Username</label>
                         <Input
-                          defaultValue="michael23"
+                          defaultValue="Aditil23"
                           placeholder="Username"
                           type="text"
                         />
@@ -55,7 +55,7 @@ function UserProfile() {
                         <label htmlFor="exampleInputEmail1">
                           Email address
                         </label>
-                        <Input placeholder="mike@email.com" type="email" />
+                        <Input placeholder="Aditi@email.com" type="email" />
                       </FormGroup>
                     </Col>
                   </Row>
@@ -64,7 +64,7 @@ function UserProfile() {
                       <FormGroup>
                         <label>First Name</label>
                         <Input
-                          defaultValue="Mike"
+                          defaultValue="Aditi"
                           placeholder="Company"
                           type="text"
                         />
@@ -74,7 +74,7 @@ function UserProfile() {
                       <FormGroup>
                         <label>Last Name</label>
                         <Input
-                          defaultValue="Andrew"
+                          defaultValue="Name"
                           placeholder="Last Name"
                           type="text"
                         />
@@ -98,7 +98,7 @@ function UserProfile() {
                       <FormGroup>
                         <label>City</label>
                         <Input
-                          defaultValue="Mike"
+                          defaultValue="Aditi"
                           placeholder="City"
                           type="text"
                         />
@@ -108,7 +108,7 @@ function UserProfile() {
                       <FormGroup>
                         <label>Country</label>
                         <Input
-                          defaultValue="Andrew"
+                          defaultValue="Aditi"
                           placeholder="Country"
                           type="text"
                         />
@@ -127,8 +127,7 @@ function UserProfile() {
                         <label>About Me</label>
                         <Input
                           cols="80"
-                          defaultValue="Lamborghini Mercy, Your chick she so thirsty, I'm in
-                            that two seat Lambo."
+                          defaultValue=""
                           placeholder="Here can be your description"
                           rows="4"
                           type="textarea"
@@ -160,14 +159,12 @@ function UserProfile() {
                       className="avatar"
                       src={require("assets/img/emilyz.jpg")}
                     />
-                    <h5 className="title">Mike Andrew</h5>
+                    <h5 className="title">Aditi Mehta</h5>
                   </a>
                   <p className="description">Ceo/Co-Founder</p>
                 </div>
                 <div className="card-description">
-                  Do not be scared of the truth because we need to restart the
-                  human foundation in truth And I love you like Kanye loves
-                  Kanye I love Rick Owens’ bed design but the back is...
+                  Stock Queen!!! Turned 20K profit in 2 days!
                 </div>
               </CardBody>
               <CardFooter>

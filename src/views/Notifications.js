@@ -70,24 +70,21 @@ function Notifications() {
               </CardHeader>
               <CardBody>
                 <Alert color="info">
-                  <span>This is a plain notification</span>
+                  <span>Your Notifications</span>
                 </Alert>
                 <UncontrolledAlert color="info">
-                  <span>This is a notification with close button.</span>
+                  <span>Alert : You have coursework pending!!!</span>
                 </UncontrolledAlert>
                 <UncontrolledAlert className="alert-with-icon" color="info">
                   <span className="tim-icons icon-bell-55" data-notify="icon" />
                   <span data-notify="message">
-                    This is a notification with close button and icon.
+                    1000 credits added to your account!
                   </span>
                 </UncontrolledAlert>
                 <UncontrolledAlert className="alert-with-icon" color="info">
                   <span className="tim-icons icon-bell-55" data-notify="icon" />
                   <span data-notify="message">
-                    This is a notification with close button and icon and have
-                    many lines. You can see that the icon and the close button
-                    are always vertically aligned. This is a beautiful
-                    notification. So you don't have to worry about the style.
+                    Your Investments are going UP!! Click here to check status
                   </span>
                 </UncontrolledAlert>
               </CardBody>
@@ -96,37 +93,37 @@ function Notifications() {
           <Col md="6">
             <Card>
               <CardHeader>
-                <CardTitle tag="h4">Notification states</CardTitle>
+                <CardTitle tag="h4">Notifications</CardTitle>
               </CardHeader>
               <CardBody>
                 <UncontrolledAlert color="primary">
                   <span>
                     <b>Primary - </b>
-                    This is a regular notification made with ".alert-primary"
+                    Course work- pending
                   </span>
                 </UncontrolledAlert>
                 <UncontrolledAlert color="info">
                   <span>
                     <b>Info - </b>
-                    This is a regular notification made with ".alert-info"
+                    Alert : Stocks dipping! 
                   </span>
                 </UncontrolledAlert>
                 <UncontrolledAlert color="success">
                   <span>
                     <b>Success - </b>
-                    This is a regular notification made with ".alert-success"
+                    Success! Profits Transfered to your crypto wallet
                   </span>
                 </UncontrolledAlert>
                 <UncontrolledAlert color="warning">
                   <span>
                     <b>Warning - </b>
-                    This is a regular notification made with ".alert-warning"
+                    Warning : Your credits are nearly over
                   </span>
                 </UncontrolledAlert>
                 <UncontrolledAlert color="danger">
                   <span>
                     <b>Danger - </b>
-                    This is a regular notification made with ".alert-danger"
+                    Danger : Analysis incomplete
                   </span>
                 </UncontrolledAlert>
               </CardBody>
@@ -139,7 +136,7 @@ function Notifications() {
                   <Row>
                     <Col className="ml-auto mr-auto text-center" md="6">
                       <CardTitle tag="h4">
-                        Notifications Places
+                        Notifications 
                         <p className="category">Click to view notifications</p>
                       </CardTitle>
                     </Col>
@@ -153,7 +150,7 @@ function Notifications() {
                             color="primary"
                             onClick={() => notify("tl")}
                           >
-                            Top Left
+                            Updates Made : click to reload
                           </Button>
                         </Col>
                         <Col md="4">
@@ -162,7 +159,7 @@ function Notifications() {
                             color="primary"
                             onClick={() => notify("tc")}
                           >
-                            Top Center
+                            Updates Made : click to reload
                           </Button>
                         </Col>
                         <Col md="4">
@@ -171,7 +168,7 @@ function Notifications() {
                             color="primary"
                             onClick={() => notify("tr")}
                           >
-                            Top Right
+                            Updates Made : click to reload
                           </Button>
                         </Col>
                       </Row>
@@ -186,7 +183,7 @@ function Notifications() {
                             color="primary"
                             onClick={() => notify("bl")}
                           >
-                            Bottom Left
+                           Updates Made : click to reload
                           </Button>
                         </Col>
                         <Col md="4">
@@ -195,7 +192,7 @@ function Notifications() {
                             color="primary"
                             onClick={() => notify("bc")}
                           >
-                            Bottom Center
+                           Updates Made : click to reload
                           </Button>
                         </Col>
                         <Col md="4">
@@ -204,7 +201,7 @@ function Notifications() {
                             color="primary"
                             onClick={() => notify("br")}
                           >
-                            Bottom Right
+                            Updates Made : click to reload
                           </Button>
                         </Col>
                       </Row>
