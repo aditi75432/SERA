@@ -34,7 +34,33 @@
             </ul>
         </section>
     </div>
-     <div >
+
+<h2>Login with metamask</h2>
+
+![Screenshot 2024-07-27 172812](https://github.com/user-attachments/assets/faa86718-1461-48d5-a9d0-e3d65c8cffce)
+
+<h2>Dashboard</h2>
+
+![Screenshot 2024-07-27 173012](https://github.com/user-attachments/assets/602207da-69ed-441f-bb37-f91cb9fdf5fa)
+
+
+![Screenshot 2024-07-27 173211](https://github.com/user-attachments/assets/c2216778-8097-4bdb-b1eb-741019da4053)
+
+
+<h2>About</h2>
+
+![Screenshot 2024-07-27 173040](https://github.com/user-attachments/assets/cc95738d-173e-43f4-8886-c99ce01105b6)
+
+<h2>LeaderBoard</h2>
+
+![Screenshot 2024-07-27 173119](https://github.com/user-attachments/assets/de354de5-20c0-486f-9ba4-e876b8ee0c87)
+
+<h2>Logo</h2>
+
+![Screenshot 2024-07-26 172435](https://github.com/user-attachments/assets/185f70ef-ce1d-45a9-9d50-ee51ec4a4fc6)
+
+  
+  <div >
         <section >
             <h1>Problem Statement</h1>
             <p>Task: Gamified stock trading platform designed for young adults (ages 16-25) to learn about investing, manage their money effectively, and build a strong financial foundation. It combines real-time market scenarios, educational content, and engaging features.</p>
